@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "test",
+      "name": "Scarlet & Violet—Stellar Crown - Pokemon TCG Live Codes",
+      "price": 11.16,
+      "stock": 1514,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/stellar-crown-booster-ptcgl-store_thumbnail.png&maxx=250&maxy=0"
+    },
+    {
+      "id": "2",
+      "name": "Stellar Crown ETB - TCG Live Codes",
+      "price": 33.47,
+      "stock": 74,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/stellar-crown-etb-ptcgl-store_thumbnail.png&maxx=250&maxy=0"
+    },
+    {
+      "id": "3",
+      "name": "Scarlet & Violet—Shrouded Fable - Pokemon TCG Live Codes",
+      "price": 11.16,
+      "stock": 1195,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/shrouden-fable-booster-ptcgl_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "4",
+      "name": "Scarlet & Violet—Twilight Masquerade - Pokemon TCG Live Codes",
+      "price": 8.79,
+      "stock": 1987,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/twilight-masquerade-code_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "5",
+      "name": "Iono Premium Tournament Collection - PTCGL Code",
+      "price": 236.31,
+      "stock": 212,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/iono-premium-tournament-collection-ptcgl-store_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "6",
+      "name": "Twilight Masquerade Build and Battle Box - Pokemon TCGL Codes",
+      "price": 67.28,
+      "stock": 10,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/twilight-masquerade-build-battle-deck-ptcgl-code_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "7",
+      "name": "Twilight Masquerade ETB - TCG Live Codes",
+      "price": 30.09,
+      "stock": 238,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/twilight-masquerade-elite-trainer-box-ptcgl-code_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "8",
+      "name": "Shrouded Fable ETB - TCG Live Codes",
+      "price": 30.09,
+      "stock": 155,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/shrouded-fable-elite-trainer-box-ptcgl_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "9",
+      "name": "Scarlet & Violet—Temporal Forces - Pokemon TCG Live Codes",
+      "price": 7.1,
+      "stock": 1475,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/temporal-forces-tcg-live-code_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "10",
+      "name": "Scarlet & Violet—Paldean Fates - Pokemon TCG Live Codes",
+      "price": 10.14,
+      "stock": 633,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/paldean-fates-pokemon-codes_thumbnail.jpg&maxx=250&maxy=0"
+    },
+    {
+      "id": "11",
+      "name": "Temporal Forces Walking Wake ETB - TCG Live Codes",
+      "price": 30.09,
+      "stock": 690,
+      "imgUrl": "https://www.ptcgostore.com/thumbnail.asp?file=assets/images/thumbnails/thumbnails/temporal-forces-elite-trainer-box-walking-wake-ptcgl_thumbnail.jpg&maxx=250&maxy=0"
+    }
+  ],
+  "users": [
+    {
+      "username": "prxsss",
+      "firstName": "Phuriphat",
+      "lastName": "Kittikun",
+      "email": "9phuriphat.k@gmail.com",
+      "password": "12345678",
+      "phone": "0998787404",
+      "isAdmin": false,
+      "id": "ea77"
+    },
+    {
+      "id": "9944",
+      "username": "cymysy",
+      "firstName": "Totam dolorum nulla ",
+      "lastName": "Robbins",
+      "email": "wevuwyg@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (323) 296-2739",
+      "isAdmin": false
+    }
+  ]
+}
